@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['ttrpacker (stable).pyw'],
-             pathex=['D:\\Toontown Music Editor'],
+             pathex=['D:\\Toontown Music Editor Test Folder'],
              binaries=[],
              datas=[],
              hiddenimports=[],
